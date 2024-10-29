@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Deforestacion",
+			"path": "../.."
+		},
+		{
+			"name": "assets",
+			"path": "../../../assets"
+		}
+	],
+	"settings": {}
+}
