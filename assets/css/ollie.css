@@ -11722,3 +11722,13 @@ pre .code {
 .txt-wrapper {
   flex: 1; /* Ocupa el resto del espacio */
 }
+
+.btn-blog {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #000; /* Color símbolo */
+  color: white; /* Texto en negro */
+  text-decoration: none; /* Sin subrayado */
+  border-radius: 1px; /* Bordes redondeados */
+}
+
